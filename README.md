@@ -10,4 +10,3 @@ ______
 
 ______
 
-[Click Here to go to the Second File](https://github.com/slkmbb/Markdown/blob/File/File.md)
