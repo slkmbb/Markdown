@@ -20,7 +20,6 @@ _________
 
 ```javascript```
 
-[Link to README.md](
-      Markdown/README.md
-    )
+[Link to README.md](https://github.com/slkmbb/Markdown/blob/feature/README.md-Atom-File/README.md)
+
     
