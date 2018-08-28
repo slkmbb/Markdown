@@ -9,4 +9,3 @@ ______
 > They will sit down if you give them too much weight to carry."
 
 ______
-
